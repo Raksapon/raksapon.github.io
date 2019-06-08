@@ -5,4 +5,4 @@
 ### Ramindra KM 8
 ### Line display name : Raksapon (พ้ง) TIDC
 
-![GitHub_logo](pic/2019-06-08_10-55-21.jpg)
+![GitHub_logo](Pic/2019-06-08_10-55-21.jpg)
